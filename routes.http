@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://diego-yt-nodeproject.onrender.com/videos
 Content-type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://diego-yt-nodeproject.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/4e95dbe8-cc8e-48e1-89cc-2af159613a91
+PUT https://diego-yt-nodeproject.onrender.com/videos/eeaca4ca-27fb-454d-9f5b-da7e3b6fc10d
 Content-type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/47ae5124-7bec-4d09-a44b-ec4e51c78338
+DELETE https://diego-yt-nodeproject.onrender.com/videos/47ae5124-7bec-4d09-a44b-ec4e51c78338
